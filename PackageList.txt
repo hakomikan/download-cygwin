@@ -1,0 +1,12 @@
+emacs
+git
+lv
+lynx
+nano
+openssh
+ssh
+python
+python3
+tmux
+wget
+zsh
