@@ -10,3 +10,4 @@ python3
 tmux
 wget
 zsh
+nc
